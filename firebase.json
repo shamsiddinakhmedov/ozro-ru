@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "ios": {
+        "default": {
+          "projectId": "ozro-mobile",
+          "appId": "1:820047395769:ios:cf8728cf070be582b15468",
+          "uploadDebugSymbols": true,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ozro-mobile",
+          "configurations": {
+            "ios": "1:820047395769:ios:cf8728cf070be582b15468"
+          }
+        }
+      }
+    }
+  }
+}

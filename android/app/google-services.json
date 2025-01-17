@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820047395769",
+    "project_id": "ozro-mobile",
+    "storage_bucket": "ozro-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820047395769:android:c3f3a443bbddfdc1b15468",
+        "android_client_info": {
+          "package_name": "ru.ozro.ozro_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbT_4DS5KaT5xqhFVuKQQSIg90kTLvpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
